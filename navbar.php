@@ -7,7 +7,6 @@
 <style>
 
 
-/* Navbar styling */
 .navbar {
   background: linear-gradient(135deg, #6a11cb, #2575fc);
   color: white;
@@ -42,7 +41,6 @@
 </head>
 <body>
 
-<!-- Navbar -->
 <div class="navbar">
   <h1>All Student Records</h1>
   <a href="create.php" class="btn">Add New Student</a>
